@@ -7,8 +7,7 @@ export default function About() {
         <div className="md:col-span-1">
           <h2 className="text-4xl font-bold mb-8">About Me</h2>
           <p className="text-muted-foreground leading-relaxed">
-            I'm an Applied Data Science student at Politeknik Elektronika Negeri Surabaya (PENS), passionate about
-            leveraging data to solve real-world problems.
+            My name is Zacky Ainul Mustofa, and I am an Applied Data Science student at Politeknik Elektronika Negeri Surabaya (PENS) who is passionate about leveraging data to solve real-world problems.
           </p>
         </div>
 
